@@ -1,10 +1,10 @@
-👋 Hi, I’m @sbasupalli  
-👀 I’m interested in Python development, data processing, and creating efficient solutions.  
-🌱 I’m currently learning advanced Python libraries and cloud integration.  
-💞️ I’m looking to collaborate on Python-based projects.  
-📫 How to reach me: saipranathi.basupalli@gmail.com  
-😄 Pronouns: She/Her  
-⚡ Fun fact: I love solving puzzles and optimizing code for fun! 
+👋 Hi, I’m @sbasupalli
+👀 I’m passionate about data analysis, SQL, and uncovering insights through data visualization.
+🌱 I’m currently learning advanced analytics techniques, cloud data platforms, and data storytelling.
+💞️ I’m looking to collaborate on data-driven projects and analytical solutions.
+📫 How to reach me: saipranathi.basupalli@gmail.com
+😄 Pronouns: She/Her
+⚡ Fun fact: I enjoy solving logic puzzles and finding creative ways to make data work smarter!
 
 <!---
 sbasupalli/sbasupalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
